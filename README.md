@@ -8,4 +8,4 @@
 
 <a href="https://www.facebook.com/profile.php?id=100035577761788"><img src="https://img.shields.io/badge/Facebook-Khang%20Nguyen-blue"/></a> <a href="mailto:namkhangnguyendang@gmail.com"> <img src="https://img.shields.io/badge/Gmail-namkhangnguyendang@gmail.com-red"/></a>
 
-<h3> <a><img width="50" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%; margin-right: 20px"/> A little more about me...</a></h3>
+<h3> <a><img width="50" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%; margin-right: 20px"/>Work hard play hard :)) </a></h3>
