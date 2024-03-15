@@ -102,6 +102,10 @@
 <img height=80px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyIRyXXr7ZWQGNoCtjzwzlU4PERzTidbxrx5HjjgfLhTZz-sC4GvgycA2VXYBTb3he6A&usqp=CAU"> 
 </td>
 
+  <td align="center" width="33%">
+<img height=80px src="https://accelerationeconomy.com/wp-content/uploads/2023/01/Cloudera_logo.png"> 
+</td>
+
 </tr>
 
 </tbody>
